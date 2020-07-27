@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am very **methodical** and **detail orientated** while _keeping a close eye on the bigger picture_ of the essential and necessary to make good use of time and resources. I have programmed in a range of languages including **Java**, **C#**, **Angular**, **TypeScript**, **JavaScript** and many others. 
